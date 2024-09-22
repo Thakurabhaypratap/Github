@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <h1>
-        Vikash Giri
+        Vikash  Thakur Abhay Pratap SIngh
       </h1>
     </>
   )
